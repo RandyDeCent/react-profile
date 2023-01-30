@@ -19,7 +19,7 @@ function Page({ currentPage }) {
       case 'resume':
         return <Resume />;
       default:
-        return <About />;
+        return <About  />;
     }
   };
 
